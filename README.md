@@ -18,3 +18,10 @@ Target Variable 4.
 
 ## Model
 The model uses a Decision Tree Algorithm. The work is done on a template Jupyter Notebook provided by Udacity. The code is written in Python 3 using NumPy and Pandas. 
+
+## The Files
+
+* _boston_housing.ipynb_ - template notebook,  provided by Udacity
+* _report.html_ - html format of the Jupyter Notebook file
+* _visuals.py_ - Python code necessary to create the graphs, provided by Udacity
+* _housing.csv_ - the data file
